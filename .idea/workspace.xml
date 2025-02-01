@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="984405a0-a5a6-47d6-b24e-1046e54e3045" name="Changes" comment="&quot;Add backend files to the backend folder" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Aroonay/InsuranceClaimManagement.git&quot;,
+    &quot;accountId&quot;: &quot;80e5922d-f88f-4611-8eca-6a004785f7d8&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qcjLvQoheKvav2CkUbEnQNT8VQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiGatewayApplication.executor": "Run",
+    "Application.ClaimServiceApplication.executor": "Run",
+    "Application.PolicyService.executor": "Run",
+    "Application.PolicyServiceApplication.executor": "Run",
+    "Application.ServiceRegistryApplication.executor": "Run",
+    "Application.UserServiceApplication.executor": "Run",
+    "JUnit.ServiceRegistryApplicationTests.executor": "Run",
+    "Maven.ApiGateway [clean,install].executor": "Run",
+    "Maven.ApiGateway [compile].executor": "Run",
+    "Maven.ApiGateway [spring-boot:run].executor": "Run",
+    "Maven.ClaimService [compile].executor": "Run",
+    "Maven.PolicyService [clean,install].executor": "Run",
+    "Maven.PolicyService [clean].executor": "Run",
+    "Maven.PolicyService [compile].executor": "Run",
+    "Maven.PolicyService [dependency:tree].executor": "Run",
+    "Maven.PolicyService [deploy].executor": "Run",
+    "Maven.PolicyService [install].executor": "Run",
+    "Maven.PolicyService [site].executor": "Run",
+    "Maven.PolicyService [spring-boot:run].executor": "Run",
+    "Maven.ServiceRegistry [clean,install].executor": "Run",
+    "Maven.User-Service [clean,install].executor": "Run",
+    "Maven.User-Service [spring-boot:run].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AROONAY ANAND/ICM/icm-backend",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AROONAY ANAND\ICM\icm-backend" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="icm.PolicyService.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn dependency:tree" />
+      <command value="mvn clean install" />
+      <command value="mvn compile" />
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984405a0-a5a6-47d6-b24e-1046e54e3045" name="Changes" comment="" />
+      <created>1734968706438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734968706438</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Add backend files to the backend folder">
+      <option name="closed" value="true" />
+      <created>1738345351956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738345351956</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Add backend files to the backend folder">
+      <option name="closed" value="true" />
+      <created>1738383673728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738383673728</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Add backend files to the backend folder&quot;" />
+    <MESSAGE value="&quot;Add backend files to the backend folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add backend files to the backend folder" />
+  </component>
+</project>

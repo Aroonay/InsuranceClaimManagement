@@ -1,0 +1,10 @@
+icm\PolicyService\DTO\CoverageDTO.class
+icm\PolicyService\repositories\PolicyRepository.class
+icm\PolicyService\service\PolicyService.class
+icm\PolicyService\DTO\PolicyDTO.class
+icm\PolicyService\repositories\CoverageRepository.class
+icm\PolicyService\PolicyServiceApplication.class
+icm\PolicyService\entity\Coverage.class
+icm\PolicyService\service\impl\PolicyServiceImpl.class
+icm\PolicyService\controller\PolicyController.class
+icm\PolicyService\entity\Policy.class

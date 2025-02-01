@@ -1,0 +1,42 @@
+server:
+  port: 8084
+
+spring:
+  application:
+    name: ApiGateway
+
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration
+
+
+  cloud:
+    gateway:
+      routes:
+        - id: USER-SERVICE
+          uri: lb://USER-SERVICE
+          predicates:
+            - Path=/api/**
+
+
+        - id: POLICYSERVICE
+          uri: lb://POLICYSERVICE
+          predicates:
+            - Path=/policies/**
+
+
+        - id: CLAIMSERVICE
+          uri: lb://CLAIMSERVICE
+          predicates:
+            - Path=/claims/**
+
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka

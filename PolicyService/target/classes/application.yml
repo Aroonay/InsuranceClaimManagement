@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: PolicyService
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/icm
+    username: root
+    password: Aroonay@09
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+
+server:
+  port: 8082

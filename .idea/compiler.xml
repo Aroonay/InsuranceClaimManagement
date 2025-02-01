@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <processorPath>
+          <entry name="$PROJECT_DIR$/PolicyService/pom.xml" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ClaimService" target="21" />
+      <module name="PolicyService" target="21" />
+      <module name="User-Service" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
